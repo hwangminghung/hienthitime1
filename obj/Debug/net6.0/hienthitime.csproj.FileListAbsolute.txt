@@ -1,0 +1,15 @@
+D:\Unity codegym\CtoF\hienthitime\bin\Debug\net6.0\hienthitime.exe
+D:\Unity codegym\CtoF\hienthitime\bin\Debug\net6.0\hienthitime.deps.json
+D:\Unity codegym\CtoF\hienthitime\bin\Debug\net6.0\hienthitime.runtimeconfig.json
+D:\Unity codegym\CtoF\hienthitime\bin\Debug\net6.0\hienthitime.dll
+D:\Unity codegym\CtoF\hienthitime\bin\Debug\net6.0\hienthitime.pdb
+D:\Unity codegym\CtoF\hienthitime\obj\Debug\net6.0\hienthitime.csproj.AssemblyReference.cache
+D:\Unity codegym\CtoF\hienthitime\obj\Debug\net6.0\hienthitime.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity codegym\CtoF\hienthitime\obj\Debug\net6.0\hienthitime.AssemblyInfoInputs.cache
+D:\Unity codegym\CtoF\hienthitime\obj\Debug\net6.0\hienthitime.AssemblyInfo.cs
+D:\Unity codegym\CtoF\hienthitime\obj\Debug\net6.0\hienthitime.csproj.CoreCompileInputs.cache
+D:\Unity codegym\CtoF\hienthitime\obj\Debug\net6.0\hienthitime.dll
+D:\Unity codegym\CtoF\hienthitime\obj\Debug\net6.0\refint\hienthitime.dll
+D:\Unity codegym\CtoF\hienthitime\obj\Debug\net6.0\hienthitime.pdb
+D:\Unity codegym\CtoF\hienthitime\obj\Debug\net6.0\hienthitime.genruntimeconfig.cache
+D:\Unity codegym\CtoF\hienthitime\obj\Debug\net6.0\ref\hienthitime.dll
